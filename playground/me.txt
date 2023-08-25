@@ -1,5 +1,0 @@
-{{#user}}
-Name: Lovekush
-Skills: HTML, CSS, JS, React.js
-Email: lovekushrazput143@gmail.com
-{{/user}}
